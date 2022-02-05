@@ -21,3 +21,6 @@ I am a Junior Java Developer. I am from Turkey and living in the Belgium.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github.com/BillAbz/BillAbz#-some-of-my-github-stats
+https://github.com/BillAbz/BillAbz/blob/master/README.md#-technologies--tools
