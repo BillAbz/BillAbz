@@ -8,7 +8,6 @@ I am a Junior Java Developer. I am from Turkey and living in the Belgium.
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything
-- 📫 How to reach me: hing you want
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-billabz23@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:billabz23@gmail.com)](mailto:billabz23@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-bilalabazaoglu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilal-abazaoglu-2a14921a0/)](https://www.linkedin.com/in/bilal-abazaoglu-2a14921a0/) 
 
@@ -25,11 +24,12 @@ I am a Junior Java Developer. I am from Turkey and living in the Belgium.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillAbz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
 
 <!--
