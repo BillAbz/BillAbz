@@ -14,8 +14,7 @@ I am a Junior Java Developer. I am from Turkey and living in the Belgium.
 
 ## &#x1f4c8; Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkzmn&layout=compact)](https://github.com/brkzmn/github-readme-stats)
--->
+
 <a href="https://github.com/BillAbz/BillAbz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillAbz&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
