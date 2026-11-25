@@ -6,7 +6,7 @@
 
 I am a Junior Java Developer. I am from Turkey and living in the Belgium.
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, .NET
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-billabz23@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:billabz23@gmail.com)](mailto:billabz23@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-bilalabazaoglu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilal-abazaoglu-2a14921a0/)](https://www.linkedin.com/in/bilal-abazaoglu-2a14921a0/) 
